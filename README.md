@@ -5,4 +5,4 @@ Riding With Cellphones attempts to classify two-wheeler riders (both motor and b
 Here are the kinds of images that we're trying to identify. 
 ![Not OK](./data/notOK/riding-dangerous-009.png)
 
-The goal is to build a classifier model which can be used to flag such behaviour on the roads (someday save lives that are needlessly lost due to distracted bike riding.)
+The goal is to build a classifier model which can be used to flag such behaviour on the roads (and someday save lives that are needlessly lost due to distracted bike riding.)
